@@ -1,0 +1,19 @@
+Classes:
+
+building
+person
+trashbin
+door
+square 4
+sitting area
+sqaure 4
+bridge
+su store
+crowd
+pillar
+elevator
+hall
+chair
+table
+water tap
+stairs

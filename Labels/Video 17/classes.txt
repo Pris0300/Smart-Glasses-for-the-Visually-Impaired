@@ -1,0 +1,7 @@
+door
+doorway
+shelf
+person
+table
+chair
+bagpack

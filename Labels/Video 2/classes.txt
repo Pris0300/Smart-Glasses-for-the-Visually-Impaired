@@ -1,0 +1,10 @@
+Door
+Trash Bin
+Backpack
+Chair
+Person
+Stairs
+Table
+Elevator
+Bench
+Car

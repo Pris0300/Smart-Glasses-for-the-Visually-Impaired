@@ -1,0 +1,8 @@
+Door
+People
+Bench
+Trash
+stairs
+wall
+elevator
+buttons

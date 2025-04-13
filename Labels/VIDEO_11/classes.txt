@@ -1,0 +1,22 @@
+Classes:
+
+person
+poster
+trashbin
+notice board
+department of government
+door
+printer
+corridor
+wall decor
+crowd
+laptop
+window
+wall
+stairs
+elevator
+square 2
+sitting area
+building
+bench
+screen

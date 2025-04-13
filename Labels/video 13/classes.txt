@@ -1,0 +1,6 @@
+people
+stairs
+door
+elevator
+trash
+bench
