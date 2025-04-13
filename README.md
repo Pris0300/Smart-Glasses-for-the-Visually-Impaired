@@ -25,7 +25,7 @@ This repository includes:
 While this module was originally intended to integrate with the app and cloud, it can be run independently to test object classification performance.
 
 ## 📂 Contents of This Repository
-- `model/`: Scripts and Jupyter notebooks for training, evaluating, and testing the model.
+- `model/`: Scripts for training, evaluating, and testing the model.
 - `report/`: Final documentation and report detailing the development and testing phases of the machine learning component.
 
 ## 🧪 Tools & Technologies
