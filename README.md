@@ -6,7 +6,7 @@ This repository contains the Machine Learning model developed as part of a large
 **1. Mobile Application** – Connecting to Vuzix Blade smart glasses to access video.
 
 **2. Machine Learning Model** – Responsible for real-time object classification and recognition.
- 📌 This is the part I contributed to and is the focus of this repository.
+📌 This is the part I contributed to and is the focus of this repository.
 
 **3. Cloud Infrastructure** – Designed to support Federated Learning and remote processing.
 
