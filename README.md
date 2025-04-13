@@ -17,20 +17,16 @@ Due to development constraints, full integration between components wasn’t com
 ## 🤖 Machine Learning Model (My Contribution)
 This repository includes:
 
-A custom **Convolutional Neural Network (CNN)** developed and trained to perform object recognition on video frames.
-
-Comparison between different model architectures to identify the most accurate and efficient for deployment on mobile devices.
-
-Preprocessing and organization of image datasets.
-
-Iterative model improvements through multiple testing phases.
+- A custom **Convolutional Neural Network (CNN)** developed and trained to perform object recognition on video frames.
+- Comparison between different model architectures to identify the most accurate and efficient for deployment on mobile devices.
+- Preprocessing and organization of image datasets.
+- Iterative model improvements through multiple testing phases.
 
 While this module was originally intended to integrate with the app and cloud, it can be run independently to test object classification performance.
 
 ## 📂 Contents of This Repository
-model/: Scripts and Jupyter notebooks for training, evaluating, and testing the model.
-
-report/: Final documentation and report detailing the development and testing phases of the machine learning component.
+- `model/`: Scripts and Jupyter notebooks for training, evaluating, and testing the model.
+- `report/`: Final documentation and report detailing the development and testing phases of the machine learning component.
 
 ## 🧪 Tools & Technologies
 - Python
